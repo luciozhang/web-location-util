@@ -21,7 +21,7 @@
 
    微信提供了jssdk，H5可以直接调用获取到位置信息。本质上是通过jsbridge传递app获取到位置信息。同理，我们也可以通过url参数等其他方式，来传递app获取到的位置信息。
 
-![web端位置定位](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/544bf03239f74a43a16dfdd18e5faf60~tplv-k3u1fbpfcp-watermark.awebp?)
+![web端位置定位](https://demo-1256819047.cos.ap-guangzhou.myqcloud.com/2022-01-12-050411.jpg)
 
 ### 工具路径
 ```
